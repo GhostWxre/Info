@@ -4,11 +4,14 @@ I don't create things for **$$**, I create it for the experience. Been that way 
 There's always something new to learn, and never believe you've mastered something.  
 **Never** have an ego in development, because there's always someone better than you!
 
-**Anything** I release has been released only because:  
+**Anything** I release has been released only because:
 1. The time for holding onto certain projects has lost its shine or was only relevant during that time frame
 2. Made something far better and what you're looking at were pretty much temporary / scrap versions (lol)
 3. It may come in useful to you regardless of the time frame and/or relevance
 4. Not worth gatekeeping even if you're just a muppet
+
+You will never find projects that require high maintenance / constant updates. Fuck that, what am I - an idiot?
+
 ---
 
 ## 🚫 To All the Skids, Leechers, and Incompetent Retards looking to contact me:
@@ -41,7 +44,8 @@ There's always something new to learn, and never believe you've mastered somethi
 - **Botnets**
 - **IP/Token grabbing**
 - **Doxing**
-- **Malware**
+- **Malware**  
+and so on...
 
 ---
 
@@ -62,6 +66,9 @@ int main() {
 **My Response:** What kind of datatype is `num`?
 
 *And the convo continues...*
+
+# 🌐 Socials
+**Discord:** `GhostWxre`
 
 # GhostWxre, GhostWxre, GhostWxre ...
 Can you guess these languages? **Hint:** It's in A-Z order!
@@ -84,7 +91,7 @@ std::cout << "GhostWxre" << std::endl;
 Console.WriteLine("GhostWxre");
 ```
 ```html
-<h1>Hello</h1>
+<h1>GhostWxre</h1>
 ```
 ```java
 System.out.println("GhostWxre");
@@ -101,5 +108,5 @@ fun main() {
 print "GhostWxre\n";
 ```
 ```xml
-<greeting>GhostWxre</greeting>
+<gw>GhostWxre</gw>
 ```
