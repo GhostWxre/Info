@@ -4,13 +4,19 @@ I don't create things for **$$**, I create it for the experience. Been that way 
 There's always something new to learn, and never believe you've mastered something.  
 **Never** have an ego in development, because there's always someone better than you!
 
+**Anything** I release has been released only because:  
+1. The time for holding onto certain projects has lost its shine or was only relevant during that time frame
+2. Made something far better and what you're looking at were pretty much temporary / scrap versions (lol)
+3. It may come in useful to you regardless of the time frame and/or relevance
+4. Not worth gatekeeping even if you're just a muppet
 ---
 
-## 🚫 To All the Skids, Leechers, and Incompetent Retards:
+## 🚫 To All the Skids, Leechers, and Incompetent Retards looking to contact me:
 
 - I am **not** your teacher, so don't expect me to hold your hand or help you in any way.
 - I am **not** your friend, nor will I ever be.
-- Anything you're looking for here will not be of help to you. **Your IQ is too low for this.**
+- Most stuff you're looking for here will not be of help to you. **Your IQ is too low for this!**
+- Get ignored 🤷
 
 ---
 
@@ -26,9 +32,8 @@ There's always something new to learn, and never believe you've mastered somethi
   
   **Note**: Depending on when you view these codes, they may become outdated, obsolete, etc.
   
-- **Expect** certain things not to have any info written in them. You're already smart enough, so I shouldn't need to explain! 😎
-  
-- You're more than welcome to ask for help on complicated codes, but **don't expect a direct answer!** Anything that is easy to figure out will be ignored!
+- **Expect** certain things not to have any info written in them. You're already smart enough, so I shouldn't need to explain! 😎  
+- You're more than welcome to ask for help on complicated codes, but **don't expect a direct answer!** Anything that is easy to figure out will be **ignored!**
 
 ---
 
